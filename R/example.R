@@ -23,6 +23,21 @@ give_me_y <- function(x, n) {
   y
 }
 
+#' Bigger than 10
+#' Tests if a number is bigger than 10.
+#' @param n
+#'
+#' @return logical
+#' @export
+#'
+#' @examples
+bigger_than_10 <- function(n){
+  if( n > 10){
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
+}
 
 #' Shows a dependency and pipe!
 #'
