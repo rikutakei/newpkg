@@ -1,6 +1,7 @@
 # newpkg
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/rikutakei/newpkg.svg?branch=master)](https://travis-ci.org/rikutakei/newpkg)
 <!-- badges: end -->
 
 The goal of newpkg is to ...
